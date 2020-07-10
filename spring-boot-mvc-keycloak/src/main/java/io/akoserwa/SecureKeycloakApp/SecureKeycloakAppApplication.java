@@ -10,5 +10,4 @@ public class SecureKeycloakAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SecureKeycloakAppApplication.class, args);
 	}
-
 }
